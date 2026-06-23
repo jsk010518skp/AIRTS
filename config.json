@@ -1,5 +1,15 @@
 {
-  "version": "2.2.1",
-  "changelog": "RT",
-  "force_update": false
+  "firmwareVersion": "2.2.2",
+  "files": [
+    {
+      "name": "anim1.bin",
+      "size": 4096,
+      "type": "animation"
+    },
+    {
+      "name": "anim2.bin",
+      "size": 8192,
+      "type": "animation"
+    }
+  ]
 }
