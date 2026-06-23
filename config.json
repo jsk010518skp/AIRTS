@@ -3,12 +3,12 @@
   "files": [
     {
       "name": "anim1.bin",
-      "size": 1000,
+      "size": 300,
       "type": "animation"
     },
     {
       "name": "anim2.bin",
-      "size": 1000,
+      "size": 300,
       "type": "animation"
     }
   ]
